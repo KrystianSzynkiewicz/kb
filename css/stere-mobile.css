@@ -1,0 +1,160 @@
+/* STARE NA MOBILE */
+@media only screen and (max-width: 900px) {
+  .new-slider {
+    background-color: red;
+  }
+  #page {
+    width: 100vw;
+    overflow-x: hidden;
+  }
+  #header-middle {
+    padding: 20px;
+  }
+  #search-place {
+    display: none;
+  }
+  .logo-wrapper {
+    width: 100%;
+  }
+  .logo {
+    width: 20vw;
+  }
+  .mobile-logo {
+    width: 400px;
+  }
+  #login-but i {
+    display: none;
+  }
+  .slideshow-container {
+    padding-top: 0px;
+  }
+  .new-slider {
+    height: auto;
+  }
+  .main-heading {
+    width: 100%;
+    text-align: center;
+  }
+  .hidden-on-phone {
+    display: none;
+  }
+  .flex {
+    flex-direction: column;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+  }
+  .section-3-art {
+    padding: 0;
+    margin: 0;
+  }
+  .right-art {
+    margin: 0;
+    padding: 20px;
+  }
+  .section-4 {
+    padding: 0;
+    margin: 0;
+  }
+  .section-4-left {
+    width: 100%;
+    height: 350px;
+  }
+  .section-4-left-img {
+    height: 70%;
+  }
+  .more-text {
+    margin: 0;
+    padding: 0;
+  }
+  .section-4-right {
+    width: 100%;
+    height: 500px;
+  }
+  .section-4-right-img {
+    display: none;
+  }
+  .section-4 .row {
+    width: 100%;
+    text-align: center;
+  }
+  .section-4 .row p {
+    font-size: 15px;
+  }
+  .section-4-right-img-phone {
+    display: block;
+    position: relative;
+  }
+  .logos-bar {
+    height: 140px;
+  }
+  .section-6 {
+    padding: 0;
+    margin: 0;
+    margin-top: -20px;
+  }
+  .section-6-left {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  .section-6-left .row {
+    flex-direction: column;
+  }
+  .section-6-left .row h3 {
+    width: 100%;
+  }
+  .section-6-left .row p {
+    width: 100%;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .section-6-right {
+    padding: 20px;
+    margin: 0;
+  }
+
+  .section-7 {
+    padding: 0;
+    margin: 0;
+    padding-bottom: 20px;
+    margin-top: -20px;
+  }
+  .section-7-right {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  .section-7-right .row {
+    flex-direction: column;
+  }
+  .section-7-right .row h3 {
+    padding: 0;
+    padding-top: 20px;
+    width: 100%;
+  }
+  .section-7-right .row p {
+    width: 100%;
+    font-size: 14px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .section-7-left {
+    padding: 20px;
+    margin: 0;
+  }
+}
+
+.my-account-wrapper .dropdown-container {
+  display: none !important;
+}
+.shopping-cart-wrapper .dropdown-container {
+  display: none !important;
+}
+.sign-button {
+  margin-top: 10px;
+}
+
+@media only screen and (max-width: 765px) {
+}
